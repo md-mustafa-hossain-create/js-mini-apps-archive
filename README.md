@@ -36,6 +36,7 @@ This repository serves as a reference for developers looking to understand speci
 | Project | Description | Status |
 |---------|-------------|--------|
 | **[Currency Converter](./currencyConverter)** | Real-time currency conversion with live exchange rates & dynamic flags. | 🟢 Active |
+| **[Book Tracker](./bookTracker)** | A beginner web app for tracking books with title and author. | 🟢 Active |
 | *More to come* | *Future projects will be added here.* | ⚪ Planned |
 
 ## Key Features
