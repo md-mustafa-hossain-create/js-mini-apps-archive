@@ -37,6 +37,7 @@ This repository serves as a reference for developers looking to understand speci
 |---------|-------------|--------|
 | **[Currency Converter](./currencyConverter)** | Real-time currency conversion with live exchange rates & dynamic flags. | 🟢 Active |
 | **[Book Tracker](./bookTracker)** | A beginner web app for tracking books with title and author. | 🟢 Active |
+| **[Todo App](./todoApp)** | A simple and responsive To-Do application with task filtering, local storage persistence, and smooth animations. | 🟢 Active |
 | *More to come* | *Future projects will be added here.* | ⚪ Planned |
 
 ## Key Features
